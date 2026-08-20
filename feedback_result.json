@@ -1,0 +1,10 @@
+{
+  "feedback": "the app is slow and the red is black",
+  "sentiment": "negative",
+  "category": "performance",
+  "priority": "high",
+  "issue": "The app is slow",
+  "suggested_action": "Optimize app performance",
+  "color": "Red",
+  "flower": "None"
+}
