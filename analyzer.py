@@ -23,7 +23,7 @@ class FeedbackAnalysis(BaseModel):
     priority: Literal["low", "medium", "high", "critical"]
     issue: str = Field(min_length=1)
     suggested_action: str = Field(min_length=1)
-
+   
     color: Literal["Red","Black"]
     flower: str= Field(min_length=1)
 
